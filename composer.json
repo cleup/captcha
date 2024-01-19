@@ -1,0 +1,23 @@
+{
+    "name": "cleup/captcha",
+    "description": "Basic captcha",
+    "keywords": [
+        "captcha",
+        "spam",
+        "bot"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/cleup/captcha",
+    "authors": [
+        {
+            "name": "Eduard",
+            "email": "dev@priveted.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cleup\\Package\\Captcha\\": "src/"
+        }
+    }
+}
