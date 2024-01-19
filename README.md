@@ -2,14 +2,14 @@
 
 Basic captcha for project security
 
-####Installation
+#### Installation
 With composer:
 
 ```
 composer require cleup/captcha
 ```
 
-####Usage
+#### Usage
 
 ##### Create an image
 
