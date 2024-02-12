@@ -102,7 +102,7 @@ class Image
                     $fontPath,
                     $code
                 );
-                $angle = random_int(-10, 10);
+                $angle = random_int(-2, 2);
                 $textColor = $this->config('textColor');
                 $color = imagecolorallocate(
                     $image,
